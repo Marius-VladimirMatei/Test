@@ -1,3 +1,4 @@
+Mod for merge testing.
 The second modification of the file.
 This is the edited version in GitHub.
 Modification during merge and save conflict.
