@@ -1,5 +1,6 @@
 The second modification of the file.
 This is the edited version in GitHub.
+Modification during merge and save conflict.
 
 # hello-world
 Hello World repository for Git tutorial
